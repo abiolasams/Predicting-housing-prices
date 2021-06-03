@@ -1,3 +1,3 @@
-# Predicting-housing-
+# Predicting-housing-prices
 
-prices utilizing data obtained from kaggle for the House prices - Advanced Regression Techniques competitions
+Predicting housing prices utilizing data obtained from kaggle for the House prices - Advanced Regression Techniques competition
